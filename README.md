@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./eu-anime.png" height="150" />
+  <img src="./eu-anime-circular.png" height="150" />
 </div>
 
 ---
