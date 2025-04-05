@@ -1,63 +1,52 @@
 <div align="center">
-  <img height="150" src="https://cdn.discordapp.com/avatars/928411302706151445/539daa4b73ef3ac7044dfe40665ad1b9.png"  />
+  <img src="./eu-anime.jpeg" height="150" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Thinxy.Thinxy&"  />
-</div>
+<h1 align="center">Vinicius Gabriel • @0xviny</h1>
 
-###
+<p align="center">
+  Estudante de desenvolvimento de software | Backend & Frontend | Sempre em evolução 🚀
+</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 👨‍💻 Sobre mim
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🎓 Estudante apaixonado por tecnologia e desenvolvimento
+- 💡 Curioso por aprender novas stacks e boas práticas
+- 📱 Criando soluções reais com foco em backend e mobile
+- 🎯 Foco atual: Java, PostgreSQL e arquitetura de sistemas
 
-###
+---
 
-<p align="left">I'm Wyntch from Brazil.<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning React and Next JS<br>- ⚡ In my free time I watch series.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Tecnologias que uso
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" alt="image icon from csharp"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=js" alt="image icon from javascript"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=ts" alt="image icon from typescript"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=html" alt="image icon from html"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=css" alt="image icon from css"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="image icon from tailwindcss"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=react" alt="image icon from react"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=vuejs" alt="image icon from vuejs"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=nextjs" alt="image icon from nextjs"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=nodejs" alt="image icon from nodejs"
-                            style="height: 33px; width: 33px;">
-                        <img src="https://skillicons.dev/icons?i=mongodb" alt="image icon from mongodb"
-                            style="height: 33px; width: 33px;">
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thinxy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,mongodb,postgres,git,linux,vscode" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,cs,react,nextjs,tailwindcss" height="40" />
 </div>
 
-###
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=0xviny&theme=tokyonight&hide_border=true" height="200" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xviny&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+---
+
+### 📫 Contato
+
+- ✉️ Email: [vgalvaomarcelino@gmail.com](mailto:vgalvaomarcelino@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xviny" />
+</div>
