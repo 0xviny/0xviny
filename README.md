@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./eu-anime.jpeg" height="150" />
+  <img src="./eu-anime.jpg" height="150" />
 </div>
 
 ---
