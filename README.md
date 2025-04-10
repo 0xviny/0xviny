@@ -43,7 +43,7 @@
 
 ### 📫 Contato
 
-- ✉️ Email: [vgalvaomarcelino@gmail.com](mailto:vgalvaomarcelino@gmail.com)
+- ✉️ Email: [0xviny.dev@gmail.com](mailto:0xviny.dev@gmail.com)
 
 ---
 
