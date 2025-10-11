@@ -18,7 +18,7 @@
 - 💡 Curioso por aprender novas stacks e boas práticas
 - 📱 Criando soluções reais com foco em backend e web
 - 🎯 Foco atual: Kotlin, PostgreSQL e arquitetura de sistemas
-- 💙 Parceiro oficial da [Square Cloud](https://squarecloud.app)
+- 💚 Parceiro oficial da [Discloud](https://discloud.com)
 
 ---
 
@@ -45,9 +45,3 @@
 ### 📫 Contato
 
 - ✉️ Email: [0xviny.dev@gmail.com](mailto:0xviny.dev@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/iQG2CCIMO2N6l4wqJlNATMbs28C5GL1zq2O0M4K3uC8/https/cdn.squarecloud.app/assets/github-readme.png" />
-</div>
