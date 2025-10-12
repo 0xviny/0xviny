@@ -45,3 +45,12 @@
 ### 📫 Contato
 
 - ✉️ Email: [0xviny.dev@gmail.com](mailto:0xviny.dev@gmail.com)
+
+---
+
+<div align="center">
+  <img 
+src="https://media.discordapp.net/attachments/704813350961283084/1254215438527631380/image.jpg?ex=68ece166&is=68eb8fe6&hm=64ee5156cc2d52ea68f5a35d364c6b173b14cf06c8bfdb5dff3e5e6de8e3ba44&format=webp&width=2006&height=1088&"
+    style="border-radius:30px;"
+  />
+</div>
