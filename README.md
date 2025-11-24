@@ -8,9 +8,6 @@
   <a href="mailto:0xviny.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0xviny.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/0xviny">
-    <img src="https://img.shields.io/badge/GitHub-0xviny-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   
   <img src="https://komarev.com/ghpvc/?username=0xviny&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile views" />
 </div>
@@ -99,21 +96,9 @@ val developer = Developer(
 
 <div align="center">
   <a href="https://github.com/0xviny?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xviny&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xviny&repo=discloud-plugin&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
-> 💡 **Dica:** Substitua `NOME_DO_REPO` pelos seus principais projetos
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] Contribuir com mais projetos open source
-- [ ] Dominar arquitetura de microserviços
-- [ ] Aprofundar conhecimentos em DevOps e CI/CD
-- [ ] Criar conteúdo técnico e tutoriais
-- [ ] Expandir network na comunidade tech
 
 ---
 
@@ -122,7 +107,6 @@ val developer = Developer(
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xviny.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xviny)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
   
